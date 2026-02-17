@@ -1,4 +1,4 @@
-﻿namespace MCPClient;
+namespace MCPClient;
 
 class Program
 {
